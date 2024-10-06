@@ -1,0 +1,3 @@
+[submodule "weather_net_ros/point-cloud-de-noising"]
+	path = weather_net_ros/point-cloud-de-noising
+	url = https://github.com/nanoshimarobot/point-cloud-de-noising
