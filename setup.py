@@ -20,6 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            "weather_net_ros=weather_net_ros.weather_net_ros:main"
         ],
     },
 )
